@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhijitreddy-06
-- 👀 I’m interested in ...Become a software engineer 
+- 👀 I’m interested in ...Becoming a software engineer 
 - 🌱 I’m currently learning ...Data structure and algorithms 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@abhijit_reddy7(instagram)
